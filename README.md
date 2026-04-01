@@ -6,7 +6,7 @@
 
  Goals: Aspiring to build a challenging career as a Software Engineer.
  
- Connect: Feel free to reach out via LinkedIn (DMs are open!).
+ Connects: Feel free to reach out via LinkedIn (DMs are open!).
 
 
 
