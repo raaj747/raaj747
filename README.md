@@ -2,9 +2,9 @@
 
  Interests: Deeply focused on Competitive Programming.
 
- Learning: Currently sharpening my skills in Data Structures & Algorithms (DSA).
+ Learnings: Currently sharpening my skills in Data Structures & Algorithms (DSA).
 
- Goal: Aspiring to build a challenging career as a Software Engineer.
+ Goals: Aspiring to build a challenging career as a Software Engineer.
  
  Connect: Feel free to reach out via LinkedIn (DMs are open!).
 
