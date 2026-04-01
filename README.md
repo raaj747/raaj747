@@ -1,4 +1,4 @@
-## Hi,I am S M Rafiujjaman Raj
+## Hi,I'm S M Rafiujjaman Raj
 
  Interests: Deeply focused on Competitive Programming.
 
