@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi,I am S M Rafiujjaman Raj
+
+🔭 Interests: Deeply focused on Competitive Programming.
+🌱 Learning: Currently sharpening my skills in Data Structures & Algorithms (DSA).
+🎯 Goal: Aspiring to build a challenging career as a Software Engineer.
+💬 Connect: Feel free to reach out via LinkedIn (DMs are open!).
+
+
 
 <!--
 **raaj747/raaj747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
