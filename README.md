@@ -1,12 +1,12 @@
 ## Hi,I'm S M Rafiujjaman Raj
 
- Interests: Deeply focused on Competitive Programming.
+ Interests-> Deeply focused on Competitive Programming.
 
- Learnings: Currently sharpening my skills in Data Structures & Algorithms (DSA).
+ Learnings-> Currently sharpening my skills in Data Structures & Algorithms (DSA).
 
- Goals: Aspiring to build a challenging career as a Software Engineer.
+ Goals-> Aspiring to build a challenging career as a Software Engineer.
  
- Connects: Feel free to reach out via LinkedIn (DMs are open!).
+ Connects-> Feel free to reach out via LinkedIn (DMs are open!).
 
 
 
