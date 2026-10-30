@@ -1,4 +1,4 @@
-# Hi👋,I'm S M Rafiujjaman Raj
+# Hi,I'm S M Rafiujjaman Raj👋
 
 <p>
   <a href="YOUR_LINKEDIN_PROFILE_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
