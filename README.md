@@ -65,7 +65,8 @@ I enjoy solving algorithmic problems and improving my problem-solving skills thr
 <p>
   <a href="https://codeforces.com/profile/AVRaj">
     <img src="https://img.shields.io/badge/CODEFORCES-AVRaj-2ea44f?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
-  </a><a href="https://www.codechef.com/users/aaraj">
+  </a>
+  <a href="https://www.codechef.com/users/aaraj">
     <img src="https://img.shields.io/badge/CODECHEF-AARaj-2ea44f?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
   </a>
 </p>
