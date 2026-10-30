@@ -10,9 +10,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science and Engineering student at **Southeast University, Dhaka, Bangladesh**, passionate about software engineering and building practical applications.
+I'm a Computer Science and Engineering student at **Southeast University, Dhaka, Bangladesh**, passionate about Software Engineering and building practical applications.
 
-- 💻 Interested in frontend development and backend development.
+- 💻 Interested in both frontend development and backend development.
 - 🧠 Practicing data structures and algorithms.
 - 🚀 Exploring microservices, cloud technologies, and scalable software architecture.
 - 🎯 Focused on becoming a skilled software engineer.
