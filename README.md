@@ -15,7 +15,7 @@ I'm a Computer Science and Engineering student at **Southeast University, Dhaka,
 - 💻 Interested in both frontend development and backend development.
 - 🧠 Practicing data structures and algorithms.
 - 🚀 Exploring microservices, cloud technologies, and scalable software architecture.
-- 🎯 Focused on becoming a skilled software engineer.
+- 🎯 Focused on becoming a skilled Software Engineer.
 
 ---
 
