@@ -1,6 +1,6 @@
 # 👋 Hi, I'm S M Rafiujjaman Raj
 
-<p align="center">
+<p>
   <a href="YOUR_LINKEDIN_PROFILE_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -66,25 +66,14 @@ I'm a Computer Science and Engineering student at **Southeast University, Dhaka,
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raaj747&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raaj747&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=raaj747&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=raaj747&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=raaj747&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=raaj747&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 ## 👀 Profile Visitors
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=raaj747&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
----
-
-<p align="center">
-  <i>Learning continuously. Building thoughtfully. Improving every day.</i>
 </p>
